@@ -1,0 +1,20 @@
+.cart-summary-bg-container {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.cart-summary-card {
+  padding: 10px;
+}
+.checkout-btn {
+  background-color: blue;
+  color: white;
+  outline: none;
+  padding: 4px;
+}
+.total-price-span {
+  font-weight: bold;
+  color: black;
+  font-size: 18px;
+}

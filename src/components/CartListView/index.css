@@ -1,0 +1,15 @@
+.cart-list {
+  padding-left: 0px;
+}
+.cart-list-view-bg-container {
+  display: flex;
+  flex-direction: column;
+}
+.remove-all-items-btn {
+  color: blue;
+  border-width: 0px;
+  background-color: transparent;
+  cursor: pointer;
+  font-weight: 400;
+  align-self: flex-end;
+}
